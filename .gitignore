@@ -1,0 +1,11 @@
+dataset/
+dataset_v2/
+dataset_v23/
+
+
+*.png
+
+*.xml
+*.caffemodel
+*.dat
+data/
